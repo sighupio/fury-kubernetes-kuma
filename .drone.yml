@@ -7,7 +7,7 @@
 # 2. policeman
 # 3. kuma-1.24 + kuma-1.25
 # 4. kuma-1.26 + kuma-1.27
-# 7. release
+# 5. release
 
 name: license
 kind: pipeline
